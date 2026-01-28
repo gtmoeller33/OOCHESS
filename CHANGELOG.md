@@ -1,6 +1,6 @@
 This is the changelog to record changes, who they were made by, and when they were committed.
 
-date - gtmoeller - Initial Commit <br>
+1/15/2026 - gtmoeller - Initial Commit <br>
 main.java  
 game.java  
 chessboard.java  
